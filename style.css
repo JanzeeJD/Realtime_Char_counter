@@ -33,6 +33,11 @@ body{
 
 }
 
+.textarea:hover {
+  border-color: rgb(0, 102, 204);
+}
+
+
 .counter-container{
   display: flex;
   justify-content: space-between;

@@ -30,6 +30,8 @@ body{
   box-sizing: border-box;
   border: solid 2px darkgray;
   line-height: 1.6;
+  border-radius: 12px;
+
 
 }
 

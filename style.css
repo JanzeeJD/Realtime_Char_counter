@@ -31,6 +31,7 @@ body{
   border: solid 2px darkgray;
   line-height: 1.6;
   border-radius: 12px;
+  transition: border-color 0.3s ease;
 
 
 }

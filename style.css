@@ -45,6 +45,8 @@ body{
   display: flex;
   justify-content: space-between;
   padding: 0 5px;
+  gap: 10px;
+
 }
 
 .counter-container p{
